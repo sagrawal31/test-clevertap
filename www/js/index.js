@@ -33,7 +33,7 @@ function onDeviceReady() {
 	CleverTap.enableDeviceNetworkInfoReporting(true);
 	
 	cordova.plugins.firebase.messaging.getToken().then(function(token) {
-	    console.log("Got device token: ", token);
+	    console.log("Got device token: ", token);});
 	});
 	
 	document.addEventListener('onPushNotification', function(data) {
@@ -43,4 +43,12 @@ function onDeviceReady() {
 	document.addEventListener('onCleverTapPushNotificationTappedWithCustomExtras', function(data) {
 		console.log('CT onCleverTapPushNotificationTappedWithCustomExtras data', data)
 	}, false);
+	
+	cordova.plugins.firebase.messaging.onBackgroundMessage(function(payload) {
+	    console.log("New background FCM message: ", payload);
+	});
+	
+	cordova.plugins.firebase.messaging.onMessage(function(payload) {
+	    console.log("New foreground FCM message: ", payload);
+	});
 }
