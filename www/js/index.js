@@ -26,4 +26,21 @@ function onDeviceReady() {
 
     console.log('Running cordova-' + cordova.platformId + '@' + cordova.version);
     document.getElementById('deviceready').classList.add('ready');
+	
+	CleverTap.setDebugLevel(1)
+	CleverTap.createNotificationChannel('GENERAL_CHANNEL', 'General', 'A General channel', 5, true);
+	CleverTap.profileGetCleverTapID(function(val) {console.log("CleverTapID is "+val);});
+	CleverTap.enableDeviceNetworkInfoReporting(true);
+	
+	cordova.plugins.firebase.messaging.getToken().then(function(token) {
+	    console.log("Got device token: ", token);
+	});
+	
+	document.addEventListener('onPushNotification', function(data) {
+		console.log('CT onPushNotification data', data)
+	}, false);
+	
+	document.addEventListener('onCleverTapPushNotificationTappedWithCustomExtras', function(data) {
+		console.log('CT onCleverTapPushNotificationTappedWithCustomExtras data', data)
+	}, false);
 }
