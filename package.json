@@ -13,6 +13,7 @@
   "author": "Apache Cordova Team",
   "license": "Apache-2.0",
   "devDependencies": {
+    "clevertap-cordova": "^2.3.3",
     "cordova-android": "^9.0.0",
     "cordova-plugin-androidx": "^3.0.0",
     "cordova-plugin-firebase-analytics": "^5.0.0",
@@ -33,6 +34,12 @@
         "APP_DOMAIN_NAME": "kidsgenericstaging.page.link",
         "APP_DOMAIN_PATH": "/",
         "ANDROID_FIREBASE_DYNAMICLINKS_VERSION": "19.1.+"
+      },
+      "clevertap-cordova": {
+        "CLEVERTAP_ACCOUNT_ID": "8KK-R49-685Z",
+        "CLEVERTAP_TOKEN": "c42-33b",
+        "FIREBASE_MESSAGING_VERSION": "20.1.+",
+        "CLEVERTAP_REGION": " "
       }
     },
     "platforms": [
