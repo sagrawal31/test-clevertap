@@ -18,6 +18,7 @@
     <platform name="android">
         <allow-intent href="market:*" />
 		<resource-file src="google-services.json" target="app/google-services.json" />
+		<hook src="scripts/android/update-android-gradle-plugin.js" type="before_build" />
     </platform>
     <platform name="ios">
         <allow-intent href="itms:*" />
