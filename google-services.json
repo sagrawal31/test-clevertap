@@ -1,0 +1,335 @@
+{
+  "project_info": {
+    "project_number": "484749321816",
+    "firebase_url": "https://onmobile-kids-staging.firebaseio.com",
+    "project_id": "onmobile-kids-staging",
+    "storage_bucket": "onmobile-kids-staging.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484749321816:android:756471b58b26150a2d4c2d",
+        "android_client_info": {
+          "package_name": "com.onmobile.kids.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484749321816-craq9hq0lidk7qg8ctvgc19hbp3lmjbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIk9sRdSuxJSC3yxvz_zg5mHatQU7lHNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484749321816-20q52l628if8h8p2bulu7ald66qe7uu7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "484749321816-vdj5j3u190odns5f0m4csgsvps9tjfa0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.onmobile.kids.staging.orange"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484749321816:android:88118ac79c9a250b",
+        "android_client_info": {
+          "package_name": "com.onmobile.kids.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484749321816-craq9hq0lidk7qg8ctvgc19hbp3lmjbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIk9sRdSuxJSC3yxvz_zg5mHatQU7lHNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484749321816-20q52l628if8h8p2bulu7ald66qe7uu7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "484749321816-vdj5j3u190odns5f0m4csgsvps9tjfa0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.onmobile.kids.staging.orange"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484749321816:android:cc23817a42dcc4c52d4c2d",
+        "android_client_info": {
+          "package_name": "com.onmobile.kids.staging.italy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484749321816-craq9hq0lidk7qg8ctvgc19hbp3lmjbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIk9sRdSuxJSC3yxvz_zg5mHatQU7lHNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484749321816-20q52l628if8h8p2bulu7ald66qe7uu7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "484749321816-vdj5j3u190odns5f0m4csgsvps9tjfa0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.onmobile.kids.staging.orange"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484749321816:android:cccbc6f0cbb32c3c",
+        "android_client_info": {
+          "package_name": "com.onmobile.kids.staging.movistarmexico"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484749321816-craq9hq0lidk7qg8ctvgc19hbp3lmjbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIk9sRdSuxJSC3yxvz_zg5mHatQU7lHNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484749321816-20q52l628if8h8p2bulu7ald66qe7uu7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "484749321816-vdj5j3u190odns5f0m4csgsvps9tjfa0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.onmobile.kids.staging.orange"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484749321816:android:1c6a187363e4c59a2d4c2d",
+        "android_client_info": {
+          "package_name": "com.onmobile.kids.staging.orange"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484749321816-craq9hq0lidk7qg8ctvgc19hbp3lmjbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIk9sRdSuxJSC3yxvz_zg5mHatQU7lHNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484749321816-20q52l628if8h8p2bulu7ald66qe7uu7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "484749321816-vdj5j3u190odns5f0m4csgsvps9tjfa0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.onmobile.kids.staging.orange"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484749321816:android:60a389a9c23a9271",
+        "android_client_info": {
+          "package_name": "com.onmobile.kids.staging.telefonica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484749321816-craq9hq0lidk7qg8ctvgc19hbp3lmjbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIk9sRdSuxJSC3yxvz_zg5mHatQU7lHNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484749321816-20q52l628if8h8p2bulu7ald66qe7uu7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "484749321816-vdj5j3u190odns5f0m4csgsvps9tjfa0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.onmobile.kids.staging.orange"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484749321816:android:8a2802feeaad308b",
+        "android_client_info": {
+          "package_name": "com.onmobile.kids.staging.vodafone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484749321816-craq9hq0lidk7qg8ctvgc19hbp3lmjbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIk9sRdSuxJSC3yxvz_zg5mHatQU7lHNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484749321816-20q52l628if8h8p2bulu7ald66qe7uu7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "484749321816-vdj5j3u190odns5f0m4csgsvps9tjfa0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.onmobile.kids.staging.orange"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484749321816:android:95b889390c448a09",
+        "android_client_info": {
+          "package_name": "com.wizpanda.apps.kids.vivo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484749321816-craq9hq0lidk7qg8ctvgc19hbp3lmjbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIk9sRdSuxJSC3yxvz_zg5mHatQU7lHNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484749321816-20q52l628if8h8p2bulu7ald66qe7uu7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "484749321816-vdj5j3u190odns5f0m4csgsvps9tjfa0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.onmobile.kids.staging.orange"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484749321816:android:06ce8bd4b5afb72e",
+        "android_client_info": {
+          "package_name": "com.wizpanda.testcordova"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484749321816-craq9hq0lidk7qg8ctvgc19hbp3lmjbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIk9sRdSuxJSC3yxvz_zg5mHatQU7lHNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484749321816-20q52l628if8h8p2bulu7ald66qe7uu7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "484749321816-vdj5j3u190odns5f0m4csgsvps9tjfa0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.onmobile.kids.staging.orange"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
